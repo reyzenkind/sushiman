@@ -1,0 +1,222 @@
+p,div,html,span,body
+{
+	font-family: "ShowcardGothic-Regular";
+	font-size: 40px;
+	color: #ffffff;
+}
+
+.black
+{
+    color: #000000;
+}
+.blue
+{
+    color: #45619d;
+}
+.lightblue
+{
+    color: #9cc6e8;
+}
+.blue2
+{
+    color: #00417e;
+}
+.white
+{
+    color: #ffffff;
+}
+.gold
+{
+    color: #9f7d2f;
+}
+.lightOcher
+{
+    color: #e8d06e;
+}
+.ocher
+{
+    color: #b08e3d;
+}
+.brown
+{
+    color: #6b521b;
+}
+.red
+{
+    color: #d70827;
+}
+.grey
+{
+    color: #444444;
+}
+.orange
+{
+    color: #ee7528;
+}
+.yellow
+{
+    color: #D7A11D;
+}
+.olive {
+    color: #dcd775;
+}
+
+
+
+.leading-2
+{
+    leading: -2;
+}
+.leading1
+{
+    leading: 1;
+}
+.leading2
+{
+    leading: 2;
+}
+.leading4
+{
+    leading: 4;
+}
+.leading6
+{
+    leading: 6;
+}
+.leading8
+{
+    leading: 8;
+}
+
+
+.letterSpacing-03
+{
+    letter-spacing: -0.5;
+}
+.letterSpacing03
+{
+    letter-spacing: 0.3;
+}
+.letterSpacing05
+{
+    letter-spacing: 0.5;
+}
+.letterSpacing1
+{
+    letter-spacing: 1;
+}
+
+
+.size9
+{
+    font-size: 9px;
+}
+.size10
+{
+    font-size: 10px;
+}
+.size11
+{
+    font-size: 11px;
+}
+.size12
+{
+    font-size: 12px;
+}
+.size13
+{
+    font-size: 13px;
+}
+.size14
+{
+    font-size: 14px;
+}
+.size15
+{
+    font-size: 15px;
+}
+.size16
+{
+    font-size: 16px;
+}
+.size17
+{
+    font-size: 17px;
+}
+.size18
+{
+    font-size: 18px;
+}
+.size19
+{
+    font-size: 19px;
+}
+.size20
+{
+    font-size: 20px;
+}
+.size21
+{
+    font-size: 21px;
+}
+.size22
+{
+    font-size: 22px;
+}
+.size23
+{
+    font-size: 23px;
+}
+.size24
+{
+    font-size: 24px;
+}
+.size25
+{
+    font-size: 25px;
+}
+.size26
+{
+    font-size: 26px;
+}
+.size27
+{
+    font-size: 27px;
+}
+.size28
+{
+    font-size: 28px;
+}
+.size29
+{
+    font-size: 29px;
+}
+.size30
+{
+    font-size: 30px;
+}
+.size48
+{
+    font-size: 48px;
+}
+
+.fontShowcardGothicRegular
+{
+	font-family: "ShowcardGothic-Regular;
+}
+
+.center
+{
+	text-align: center;
+}
+
+.left
+{
+	text-align: left;
+}
+
+.right
+{
+	text-align: right;
+}
+ 
